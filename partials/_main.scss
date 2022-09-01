@@ -1,0 +1,87 @@
+main {
+
+    text-align: center;
+    position: relative;
+
+    .mundo_gamer{
+        text-align: center;
+    }
+
+    .descuento {
+        color: white;
+        background-color: black;
+        text-align: center;
+    }
+
+    .bk{
+        margin-left: 0px;
+      }
+
+      .parrafo {
+        color: white;
+        background-color: black;
+        text-align: center;
+    }
+
+    .carta {
+        width: 300px;
+        background-color: rgb(170, 168, 168);
+        margin-top: 40px;
+        padding: 0px;
+        margin-left: 60%;
+        border-radius: 5px;
+        display: inline-block;
+        box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+        
+
+        .fifa22 {
+            width: 600px;
+            position: absolute;
+            left: 100px;
+            border-radius: 5px;
+        
+        }
+
+        .friday {
+            width: 600px;
+            position: absolute;
+            left: 100px;
+            top: 970px;
+            border-radius: 5px;
+           
+        }
+    }
+
+    .carta_imagen {
+        width: 295px;
+        right: 600px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        
+    }
+
+    .carta_doble {
+        font-size: 25px;
+    }
+
+    .carta_boton {
+        font-size: 20px;
+        right: 300px;
+        /* margin-bottom: 100px; */
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: bolder;
+        padding: 10px 30px;
+        border-radius: 50px;
+        color: #f1e8e8;
+        background-color: rgb(129, 138, 49);
+    
+    }
+
+}
+
+.mundo_gamer {
+    font-family: 'Oswald', sans-serif;
+    color: white
+}
+
